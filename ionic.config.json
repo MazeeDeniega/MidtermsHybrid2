@@ -1,0 +1,7 @@
+{
+  "name": "myMidterms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
